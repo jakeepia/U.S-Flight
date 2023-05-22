@@ -6,6 +6,7 @@
 This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various scenarios and challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
 
 The data set for this assessment can be accessed from https://drive.google.com/file/d/1NbWRCwaQL0-fYAFM0FrGoD3-Hx-ousuT/view?usp=sharing
+
 _The data shows U.S Flight Data for the month of January 2019._
 
 ## Questions:
@@ -16,7 +17,7 @@ _The data shows U.S Flight Data for the month of January 2019._
 5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted.
 
 ## Skills/ concepts demonstrated:
-- Power Query (used to create 'Day Name' column)
+- Power Query (used to create "Day_Name" column)
 - Pivot Table (used to summarize the data)
 - Pivot Chart (used to transform the summarized data into compelling visualizations)
 
