@@ -16,9 +16,9 @@ _The data shows U.S Flight Data for the month of January 2019._
 5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted.
 
 ## Skills/ concepts demonstrated:
-- Power Query
-- Pivot Table
-- Pivot Chart
+- Power Query (used to create 'Day Name' column)
+- Pivot Table (used to summarize the data)
+- Pivot Chart (used to transform the summarized data into compelling visualizations)
 
 ## Solutions:
 1.
