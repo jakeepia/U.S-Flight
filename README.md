@@ -23,3 +23,18 @@ _The data shows U.S Flight Data for the month of January 2019._
 ## Solutions:
 1.
 ![](solution_1.JPG)
+
+2.
+![](solution_2.JPG)
+
+3.
+![](solution_3.JPG)
+
+4.
+![](solution_4.JPG)
+
+5.
+![](solution_5.JPG)
+
+## Dashboard Presentation
+![](dashboard.JPG)
