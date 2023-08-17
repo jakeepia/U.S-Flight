@@ -1,6 +1,6 @@
 # Flight Analysis 
 
-![](intro_page.JPG)
+![](Images/intro_page.JPG)
 
 ## Introduction
 This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various scenarios and challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
@@ -23,19 +23,19 @@ _The data shows U.S Flight Data for the month of January 2019._
 
 ## Solutions:
 1.
-![](solution_1.JPG)
+![](Images/solution_1.JPG)
 
 2.
-![](solution_2.JPG)
+![](Images/solution_2.JPG)
 
 3.
-![](solution_3.JPG)
+![](Images/solution_3.JPG)
 
 4.
-![](solution_4.JPG)
+![](Images/solution_4.JPG)
 
 5.
-![](solution_5.JPG)
+![](Images/solution_5.JPG)
 
 ## Dashboard Presentation
-![](dashboard.JPG)
+![](Images/dashboard.JPG)
