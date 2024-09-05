@@ -3,11 +3,14 @@
 ![](intro.JPG)
 
 ## Introduction
-This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various scenarios and challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
+This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
 
-The dataset for this assessment can be accessed from https://drive.google.com/file/d/1NbWRCwaQL0-fYAFM0FrGoD3-Hx-ousuT/view?usp=sharing
+The dataset for this assessment can be accessed from [Link here](https://drive.google.com/file/d/1NbWRCwaQL0-fYAFM0FrGoD3-Hx-ousuT/view?usp=sharing) and contains U.S Flight Data for the month of January 2019. The dataset consists of one table with 583,985 rows and 15 columns
 
-_The data shows U.S Flight Data for the month of January 2019._
+## Skills/ concepts demonstrated:
+- Power Query (used to create "Day_Name" column)
+- Pivot Table (used to summarize the data)
+- Pivot Chart (used to transform the summarized data into compelling visualizations)
 
 ## Questions:
 1. What percentage of flights that departed from ‘ATL’ were delayed?
@@ -15,11 +18,6 @@ _The data shows U.S Flight Data for the month of January 2019._
 3. What is the average distance flown by all flights departing from ‘EWR’? 
 4. Using the most appropriate pictorial representation, show the number of flights that departed late for each departure time slot between 0600am till 1159am. 
 5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted.
-
-## Skills/ concepts demonstrated:
-- Power Query (used to create "Day_Name" column)
-- Pivot Table (used to summarize the data)
-- Pivot Chart (used to transform the summarized data into compelling visualizations)
 
 ## Solutions:
 1.
