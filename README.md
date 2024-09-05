@@ -1,6 +1,6 @@
 # Flight Analysis 
 
-![](intro1.JPG)
+![](intro.JPG)
 
 ## Introduction
 This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various scenarios and challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
