@@ -12,7 +12,7 @@ The dataset for this assessment can be accessed from [Link here](https://drive.g
 - Pivot Table (used to summarize the data)
 - Pivot Chart (used to transform the summarized data into compelling visualizations)
 
-## Questions:
+## Problem Statements:
 1. What percentage of flights that departed from ‘ATL’ were delayed?
 2. Using an appropriate pictorial representation, show the number of flights that arrived on time for each day of the week. (Assume Sunday is the first day of the week). 
 3. What is the average distance flown by all flights departing from ‘EWR’? 
