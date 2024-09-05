@@ -3,7 +3,7 @@
 ![](intro.JPG)
 
 ## Introduction
-This assessment aims to evaluate my proficiency in data analysis using Excel, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
+This assessment aims to evaluate my proficiency in data analysis using **Excel**, as well as my ability to derive actionable insights from complex datasets. Throughout this assessment, I was presented with various challenges that tested my knowledge of Excel's functions, formulas, and data manipulation techniques.
 
 The dataset for this assessment can be accessed from [Link here](https://drive.google.com/file/d/1NbWRCwaQL0-fYAFM0FrGoD3-Hx-ousuT/view?usp=sharing) and contains U.S Flight Data for the month of January 2019. The dataset consists of one table with 583,985 rows and 15 columns
 
