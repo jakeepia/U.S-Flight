@@ -37,3 +37,9 @@ The dataset for this assessment can be accessed from [Link here](https://drive.g
 
 ## Dashboard Presentation
 ![](dashboard.jpeg)
+
+## Assessment Summary
+The purpose of this assessment was to gauge my expertise in using Excel for data analysis and my capability to extract meaningful insights from intricate datasets. During the assessment, I encountered several tasks that tested my understanding and application of Excel's features. Upon completion, I was able to effectively analyze the data and provide relevant insights based on the challenges presented.
+
+
+
