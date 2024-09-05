@@ -38,4 +38,4 @@ _The data shows U.S Flight Data for the month of January 2019._
 ![](Images/solution_5.JPG)
 
 ## Dashboard Presentation
-![](dashboard.JPG)
+![](dashboard.jpeg)
