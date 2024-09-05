@@ -13,26 +13,15 @@ The dataset for this assessment can be accessed from [Link here](https://drive.g
 - Pivot Chart (used to transform the summarized data into compelling visualizations)
 
 ## Problem Statements:
-1. What percentage of flights that departed from ‘ATL’ were delayed?
-2. Using an appropriate pictorial representation, show the number of flights that arrived on time for each day of the week. (Assume Sunday is the first day of the week). 
-3. What is the average distance flown by all flights departing from ‘EWR’? 
-4. Using the most appropriate pictorial representation, show the number of flights that departed late for each departure time slot between 0600am till 1159am. 
-5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted.
-
-## Solutions:
-1.
+1. What percentage of flights that departed from ‘ATL’ were delayed? <br>
 ![](Images/solution_1.JPG)
-
-2.
+2. Using an appropriate pictorial representation, show the number of flights that arrived on time for each day of the week. (Assume Sunday is the first day of the week). <br>
 ![](Images/solution_2.JPG)
-
-3.
+3. What is the average distance flown by all flights departing from ‘EWR’? <br>
 ![](Images/solution_3.JPG)
-
-4.
+4. Using the most appropriate pictorial representation, show the number of flights that departed late for each departure time slot between 0600am till 1159am. <br>
 ![](Images/solution_4.JPG)
-
-5.
+5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted. <br>
 ![](Images/solution_5.JPG)
 
 ## Dashboard Presentation
